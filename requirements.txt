@@ -1,0 +1,28 @@
+
+streamlit
+python-dotenv
+
+# LangChain
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+
+# Hugging Face
+huggingface-hub
+sentence-transformers
+
+# Vector Database
+qdrant-client
+
+# Document Loaders
+pypdf
+python-docx
+docx2txt
+
+# Data Processing
+pandas
+openpyxl
+
+# Numerical
+numpy
